@@ -26,7 +26,7 @@ def verify_currencies_input(from_curr, to_curr):
             return False
         
         return True
-    else:
+    else: 
         return False
 
 def get_exchange_rate(from_curr, to_curr):
