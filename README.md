@@ -4,8 +4,6 @@ Certainly! Here's an example of a README.md file in English for your currency co
 
 # Currency Converter
 
-![Currency Converter](currency_converter.png)
-
 A simple currency converter using the currency exchange API.
 
 ## Description
@@ -18,10 +16,6 @@ This project is a currency converter that allows you to convert an amount from o
 - Supports a wide range of international currencies
 - Simple and user-friendly interface
 
-## Screenshots
-
-![Screenshot 1](screenshot1.png)
-*Currency converter user interface*
 
 ## Installation
 
