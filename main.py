@@ -27,7 +27,6 @@ def verify_currencies_input(from_curr, to_curr):
         
         return True
     else:
-        print("One or more currencies are not recognized.")
         return False
 
 def get_exchange_rate(from_curr, to_curr):
